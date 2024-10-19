@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://crispy-palm-tree-97jww49q54jjc799r-5000.app.github.dev/",
+            "url": "https://crispy-palm-tree-97jww49q54jjc799r-5000.app.github.dev/htop",
             "webRoot": "${workspaceFolder}"
         }
     ]
